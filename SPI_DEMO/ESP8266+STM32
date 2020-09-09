@@ -1,0 +1,2 @@
+This Project is a demo project for the SPI serial communication between ESP8266 and STM32.
+.ino file is for ESP8266 and rest of the project source is for STM32.
